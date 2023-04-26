@@ -1,4 +1,4 @@
-nav li + li:before{
-    content: " | ";
-    padding: 0 10px;
+p{
+    font-size: 20px;
+    font-family: fantasy;
 }
