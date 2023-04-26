@@ -5,8 +5,3 @@
 p {
     text-indent: 40px;
    }
-   body {
-    background-image: url(images/depositphotos_44541717-stock-photo-grey-grungy-background.jpg);
-    background-attachment: fixed; /* Фон страницы фиксируется */
-    background-repeat: repeat-x;
-   }
